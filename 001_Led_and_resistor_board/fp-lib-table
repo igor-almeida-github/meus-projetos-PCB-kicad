@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 001_Led_and_resistor_board)(type KiCad)(uri ${KIPRJMOD}/001_Led_and_resistor_board.pretty)(options "")(descr ""))
+)
